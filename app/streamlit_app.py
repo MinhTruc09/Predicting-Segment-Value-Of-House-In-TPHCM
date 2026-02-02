@@ -8,7 +8,7 @@ from sklearn.preprocessing import StandardScaler
 # Adjust paths to match the user's workspace structure
 # Workspace root: c:\Workspace\PYTHONN\Predicting-Segment-Value-Of-House-In-TPHCM
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-MODEL_PATH = os.path.join(BASE_DIR, "model", "best_random_forest_model.pkl")
+MODEL_PATH = os.path.join(BASE_DIR, "models", "house_segment_rf_optimized.pkl")
 # Use the None_Scalling file to get the schema and fit the scaler
 DATA_PATH = os.path.join(BASE_DIR, "data", "cleaned", "Data_Ready_For_ML_Final_None_Scalling.csv")
 
