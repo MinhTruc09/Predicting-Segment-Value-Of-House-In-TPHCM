@@ -1,62 +1,41 @@
 ﻿district,type_house,is_hem,is_mattien,price_per_m2_avg,price_per_m2_low_avg,price_per_m2_high_avg
-Quận 1,nha_o,0,0,366.67,261.38,727.27
 Quận 1,nha_mat_pho,0,1,450.82,347.22,882.35
 Quận 1,nha_ngõ_hẻm,1,0,230,185.71,320
-Quận 3,nha_o,0,0,266.67,179.1,541.36
 Quận 3,nha_mat_pho,0,1,409.72,320.99,701.25
 Quận 3,nha_ngõ_hẻm,1,0,182.78,150,272.95
-Thành phố Thủ Đức,nha_o,0,0,111.11,80.95,265.7
 Thành phố Thủ Đức,nha_mat_pho,0,1,166.67,100.99,329.41
 Thành phố Thủ Đức,nha_ngõ_hẻm,1,0,85.71,68.75,133.33
-Quận 4,nha_o,0,0,125,98.04,275
 Quận 4,nha_mat_pho,0,1,250,212.01,387.5
 Quận 4,nha_ngõ_hẻm,1,0,109.09,92.31,186.05
-Quận 5,nha_o,0,0,261.54,184.47,475.98
 Quận 5,nha_mat_pho,0,1,368,303.03,542.86
 Quận 5,nha_ngõ_hẻm,1,0,176.47,142.86,237.29
-Quận 6,nha_o,0,0,127.45,104.17,193.45
 Quận 6,nha_mat_pho,0,1,166.67,139.78,235.29
 Quận 6,nha_ngõ_hẻm,1,0,111.11,93.75,147.06
-Quận 7,nha_o,0,0,125,93.75,251.94
 Quận 7,nha_mat_pho,0,1,192.88,150,288.89
 Quận 7,nha_ngõ_hẻm,1,0,100,82.35,147.73
-Quận 8,nha_o,0,0,117.65,90.91,179.17
 Quận 8,nha_mat_pho,0,1,150,112.9,217.39
 Quận 8,nha_ngõ_hẻm,1,0,107.14,84.27,148.53
-Quận 10,nha_o,0,0,226.8,175,364.66
 Quận 10,nha_mat_pho,0,1,322.43,274.19,463.41
 Quận 10,nha_ngõ_hẻm,1,0,189.87,153.85,267.86
-Quận 11,nha_o,0,0,153.85,125,266.13
 Quận 11,nha_mat_pho,0,1,226.19,190.91,333.33
 Quận 11,nha_ngõ_hẻm,1,0,136.36,116.28,192.08
-Quận 12,nha_o,0,0,74.07,57.95,106.95
 Quận 12,nha_mat_pho,0,1,83.33,65.24,120
 Quận 12,nha_ngõ_hẻm,1,0,70.3,54.55,100
-Quận Bình Tân,nha_o,0,0,92.38,77.78,125
 Quận Bình Tân,nha_mat_pho,0,1,107.5,88.89,153.26
 Quận Bình Tân,nha_ngõ_hẻm,1,0,89.25,75,115.79
-Quận Bình Thạnh,nha_o,0,0,155.56,120,250
 Quận Bình Thạnh,nha_mat_pho,0,1,225.35,183.33,338.98
 Quận Bình Thạnh,nha_ngõ_hẻm,1,0,140,109.09,193.75
-Quận Gò Vấp,nha_o,0,0,116.88,97.09,176.47
 Quận Gò Vấp,nha_mat_pho,0,1,150,121.95,222.22
 Quận Gò Vấp,nha_ngõ_hẻm,1,0,111.11,90.91,150
-Quận Phú Nhuận,nha_o,0,0,184.62,142.86,326.09
 Quận Phú Nhuận,nha_mat_pho,0,1,275.64,215.57,412.5
 Quận Phú Nhuận,nha_ngõ_hẻm,1,0,160,131.09,222.22
-Quận Tân Bình,nha_o,0,0,150,116.67,236.84
 Quận Tân Bình,nha_mat_pho,0,1,202.9,166.67,303.03
 Quận Tân Bình,nha_ngõ_hẻm,1,0,129.63,104.62,185.71
-Quận Tân Phú,nha_o,0,0,115.38,98.04,169.49
 Quận Tân Phú,nha_mat_pho,0,1,142.86,120,204.88
 Quận Tân Phú,nha_ngõ_hẻm,1,0,105.26,90.91,138.89
-Huyện Bình Chánh,nha_o,0,0,69.57,25,150
 Huyện Bình Chánh,nha_mat_pho,0,1,93.33,54.27,180
 Huyện Bình Chánh,nha_ngõ_hẻm,1,0,25,12.37,75
-Huyện Cần Giờ,nha_o,0,0,53.33,41.82,100
-Huyện Củ Chi,nha_o,0,0,16.34,10.19,28.29
 Huyện Củ Chi,nha_mat_pho,0,1,18.8,11.14,34.88
-Huyện Hóc Môn,nha_o,0,0,45.45,33.91,71.48
 Huyện Hóc Môn,nha_mat_pho,0,1,57.69,40.82,82.1
 Huyện Hóc Môn,nha_ngõ_hẻm,1,0,39.71,29.41,62.5
 Nhà Bè,nha_mat_pho,0,1,103.75,75,135

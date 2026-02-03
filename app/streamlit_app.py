@@ -10,7 +10,7 @@ from sklearn.preprocessing import StandardScaler
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MODEL_PATH = os.path.join(BASE_DIR, "models", "house_segment_rf_optimized.pkl")
 # Use the None_Scalling file to get the schema and fit the scaler
-DATA_PATH = os.path.join(BASE_DIR, "data", "cleaned", "Data_Ready_For_ML_Final_None_Scalling.csv")
+DATA_PATH = os.path.join(BASE_DIR, "data", "cleaned", "Model_None_Scaling.csv")
 
 st.set_page_config(page_title="Dự đoán Phân khúc Nhà", layout="centered")
 
